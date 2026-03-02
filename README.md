@@ -35,11 +35,17 @@ I have mentored **55+ engineers** across onshore and offshore teams on AI, .NET,
 ## 🏆 What I Have Shipped (In Production)
 
 💰 $4.9M incremental revenue → GPT-4o Shop Virtual Assistant on Dell.com
+
 📈 32% improvement → AI-driven customer interaction quality
+
 😊 85% CSAT → Conversational commerce experience
+
 ⚡ 40% response time drop → High-availability MFE chat architecture
+
 ✅ 99.9% uptime → Peak sales events (Black Friday, Cyber Monday Door busters)
+
 🛡️ 100% compliance adherence → Enterprise compliance + metrics dashboard
+
 🔎 20+ data sources → "Clarity" executive reporting platform
 
 
