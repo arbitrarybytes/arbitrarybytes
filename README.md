@@ -1,6 +1,7 @@
 <div align="center">
 
 # Vaibhav Sharma
+
 ### Principal AI Architect · Agentic Commerce · Azure OpenAI · OpenAI GPT OSS · MCP/ACP · .NET · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/vaibhavsharma](https://www.linkedin.com/in/connect2vaibhav))
@@ -47,7 +48,6 @@ I have mentored **55+ engineers** across onshore and offshore teams on AI, .NET,
 🛡️ 100% compliance adherence → Enterprise compliance + metrics dashboard
 
 🔎 20+ data sources → "Clarity" executive reporting platform
-
 
 ---
 
