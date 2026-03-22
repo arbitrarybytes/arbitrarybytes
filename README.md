@@ -16,7 +16,7 @@
 > *"I close the gap between frontier AI capabilities and enterprise production reality."*
 
 I am a **Senior Principal AI Architect** with **18+ years** of enterprise cloud-native engineering 
-and **4+ years** delivering production grade GenAI and Agentic systems at scale. I led the
+and **3+ years** delivering production grade GenAI and Agentic systems at scale. I led the
 architecture and delivery of a **GPT-3.5/4o powered Shop Virtual Assistant on a leading eCommerce portal** that drove
 **> $5M in incremental revenue** at launch — one of the few engineers to have taken a 
 **multi-agent, MCP-driven agentic commerce vision from whiteboard to production**.
