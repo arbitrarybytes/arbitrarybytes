@@ -17,8 +17,8 @@
 
 I am a **Senior Principal AI Architect** with **18+ years** of enterprise cloud-native engineering 
 and **4+ years** delivering production grade GenAI and Agentic systems at scale. I led the
-architecture and delivery of a **GPT-3.5 powered Shop Virtual Assistant on Dell.com** that drove
-**$4.9M in incremental revenue** at launch — one of the few engineers to have taken a 
+architecture and delivery of a **GPT-3.5/4o powered Shop Virtual Assistant on a leading eCommerce portal** that drove
+**> $5M in incremental revenue** at launch — one of the few engineers to have taken a 
 **multi-agent, MCP-driven agentic commerce vision from whiteboard to production**.
 
 
@@ -35,7 +35,7 @@ I have mentored **55+ engineers** across onshore and offshore teams on AI, .NET,
 
 ## 🏆 What I Have Shipped (In Production)
 
-💰 $4.9M incremental revenue → GPT-4o Shop Virtual Assistant on Dell.com
+💰 $5M incremental revenue → GPT-4o Shop Virtual Assistant on leading e-Commerce portal
 
 📈 32% improvement → AI-driven customer interaction quality
 
@@ -43,7 +43,7 @@ I have mentored **55+ engineers** across onshore and offshore teams on AI, .NET,
 
 ⚡ 40% response time drop → High-availability MFE chat architecture
 
-✅ 99.9% uptime → Peak sales events (Black Friday, Cyber Monday Door busters)
+✅ 99.9% uptime → Peak sales events (Black Friday, Cyber Monday, Door busters)
 
 🛡️ 100% compliance adherence → Enterprise compliance + metrics dashboard
 
